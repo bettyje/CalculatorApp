@@ -1,11 +1,33 @@
-# CalculatorApp
+# CalculatorApp — Beginner’s C# (.NET) Console Project
 
-A beginner-friendly C# console calculator (Add, Subtract, Multiply, Divide, Power, Square Root).
+Author: Betty Jelagat  
+Project Window: Sept 1–4  
+Repo: [CalculatorApp](https://github.com/bettyje/CalculatorApp)
 
-## Quickstart
+---
 
-1. Install .NET SDK (https://dotnet.microsoft.com/).
-2. Clone the repo:
-   ```bash
-   git clone https://github.com/bettyje/CalculatorApp.git
-   cd CalculatorApp
+## 🎯 Objective
+Learn the basics of **C# and .NET** by building a menu-driven console calculator.  
+The app supports:
+
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division (with zero-check)  
+- Power (x^y)  
+- Square Root (with negative-check)  
+- Clear screen  
+- Exit  
+
+---
+
+## ⚙️ System Requirements
+- Windows 10 or later (tested)  
+- [.NET SDK 9.x](https://dotnet.microsoft.com/download)  
+- Visual Studio Code (recommended)  
+- Git (for version control)  
+
+Verify installation:
+```bash
+dotnet --version
+git --version
