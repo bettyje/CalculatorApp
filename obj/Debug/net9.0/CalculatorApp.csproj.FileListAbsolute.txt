@@ -12,3 +12,4 @@ C:\Users\Betty\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
 C:\Users\Betty\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
 C:\Users\Betty\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\Betty\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
+C:\Users\Betty\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
